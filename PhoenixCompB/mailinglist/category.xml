@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <Name>Fred Flintstone</Name>
+    <Address>1 Boulder Way
+Bedrock, New Fork 00001</Address>
+    <E-mail>fflintstone@stonetablet.com</E-mail>
+    <Phone>000-000-0011</Phone>
+    <Category>Tablets</Category>
+  </Customer>
+</Customers>

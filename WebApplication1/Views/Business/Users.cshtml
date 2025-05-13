@@ -1,0 +1,24 @@
+﻿
+@model IEnumerable<PhoenixWebCore.Models.UserModel>
+@{
+    ViewData["Title"] = "Users";
+}
+<center>
+
+    <h1>@ViewData["Title"]</h1>
+
+    <h3>List of users having access to this site.</h3>
+
+    <br /> <br />
+    <ul style="list-style-type:none;">
+        @foreach (var b in Model)
+        {
+            
+            <li><b> @Html.DisplayFor(modelItem => b.Name)</b></li>
+        
+        }
+        
+        
+    </ul>
+
+</center>

@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\business\\quotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\business\\quotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\business\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\business\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\business\\mailings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\business\\mailings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\business\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\business\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\about\\locations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\about\\locations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\phoenixweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\phoenixweb\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\phoenixweb\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\phoenixweb\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\phoenixweb\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\phoenixweb\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A3F73-9F9F-4E1C-92B0-8446BE3352D0}|PhoenixCompB\\PhoenixComp.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\phoenixcompb\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A3F73-9F9F-4E1C-92B0-8446BE3352D0}|PhoenixCompB\\PhoenixComp.csproj|solutionrelative:phoenixcompb\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|f:\\repo\\ict4351_bvocque_week10\\phoenixcomp\\webapplication1\\controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA64E50-421D-4ED6-A6EE-D537344E5F3D}|WebApplication1\\PhoenixWebCore.csproj|solutionrelative:webapplication1\\controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\laptops.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\laptops.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\scripts\\webforms\\detailsview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\scripts\\webforms\\detailsview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PhoenixWeb||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\phoenixweb\\laptops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A98E4740-B0E6-48B5-BEB8-6EE2A6319408}|PhoenixWeb\\PhoenixWeb.csproj|solutionrelative:phoenixweb\\laptops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quotes.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Quotes.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Business\\Quotes.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Quotes.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Business\\Quotes.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:45:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Users.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Business\\Users.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Users.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Business\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:45:34.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Products.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Business\\Products.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Products.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Business\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:44:23.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mailings.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Mailings.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Business\\Mailings.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Business\\Mailings.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Business\\Mailings.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:43:27.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:43:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\FileModel.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Models\\FileModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\FileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:42:50.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T03:38:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:38:18.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Startup.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Startup.cs",
+              "RelativeToolTip": "WebApplication1\\Startup.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:38:10.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Default.aspx",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Default.aspx",
+              "RelativeToolTip": "PhoenixWeb\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-09T03:37:00.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Site.Master.designer.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Site.Master.designer.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Site.Master.designer.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Site.Master.designer.cs",
+              "RelativeToolTip": "PhoenixWeb\\Site.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:36:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Site.Master.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Site.Master.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Site.Master.cs",
+              "RelativeToolTip": "PhoenixWeb\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:36:41.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AboutController.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:22:33.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T03:38:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Locations.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\About\\Locations.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\About\\Locations.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\About\\Locations.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\About\\Locations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T03:39:41.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:35:59.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T03:35:45.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "About.aspx",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\About.aspx",
+              "RelativeDocumentMoniker": "PhoenixWeb\\About.aspx",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\About.aspx",
+              "RelativeToolTip": "PhoenixWeb\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-09T03:27:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\App_Start\\RouteConfig.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PhoenixWeb\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:33:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\App_Start\\BundleConfig.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "PhoenixWeb\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:33:08.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BusinessController.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Controllers\\BusinessController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BusinessController.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\WebApplication1\\Controllers\\BusinessController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BusinessController.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAQwP4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:24:09.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixCompB\\User.cs",
+              "RelativeDocumentMoniker": "PhoenixCompB\\User.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixCompB\\User.cs",
+              "RelativeToolTip": "PhoenixCompB\\User.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:42:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Site.css",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Content\\Site.css",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Content\\Site.css",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Content\\Site.css",
+              "RelativeToolTip": "PhoenixWeb\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-09T03:27:06.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Global.asax.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Global.asax.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Global.asax.cs",
+              "RelativeToolTip": "PhoenixWeb\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:40:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.aspx.designer.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\About.aspx.designer.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\About.aspx.designer.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\About.aspx.designer.cs",
+              "RelativeToolTip": "PhoenixWeb\\About.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:27:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\About.aspx.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\About.aspx.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\About.aspx.cs",
+              "RelativeToolTip": "PhoenixWeb\\About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:07:22.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Web.Release.config",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Web.Release.config",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Web.Release.config",
+              "RelativeToolTip": "PhoenixWeb\\Web.Release.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-07T15:10:25.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Web.Debug.config",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Web.Debug.config",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Web.Debug.config",
+              "RelativeToolTip": "PhoenixWeb\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-07T15:10:20.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Laptops.aspx.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Laptops.aspx.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Laptops.aspx.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Laptops.aspx.cs*",
+              "RelativeToolTip": "PhoenixWeb\\Laptops.aspx.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:08:06.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Contact.aspx.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Contact.aspx.cs",
+              "RelativeToolTip": "PhoenixWeb\\Contact.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:07:49.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DetailsView.js",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Scripts\\WebForms\\DetailsView.js",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Scripts\\WebForms\\DetailsView.js",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Scripts\\WebForms\\DetailsView.js",
+              "RelativeToolTip": "PhoenixWeb\\Scripts\\WebForms\\DetailsView.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-07T15:07:12.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PhoenixWeb\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:04:31.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Utility.cs",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Utility.cs",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Utility.cs",
+              "RelativeToolTip": "PhoenixWeb\\Utility.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:15:15.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Contact.aspx",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Contact.aspx",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Contact.aspx",
+              "RelativeToolTip": "PhoenixWeb\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-07T04:34:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PhoenixWeb",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\PhoenixWeb.csproj",
+              "RelativeDocumentMoniker": "PhoenixWeb\\PhoenixWeb.csproj",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\PhoenixWeb.csproj",
+              "RelativeToolTip": "PhoenixWeb\\PhoenixWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T04:16:13.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Laptops.aspx",
+              "DocumentMoniker": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Laptops.aspx",
+              "RelativeDocumentMoniker": "PhoenixWeb\\Laptops.aspx",
+              "ToolTip": "F:\\repo\\ICT4351_BVocque_Week10\\PhoenixComp\\PhoenixWeb\\Laptops.aspx",
+              "RelativeToolTip": "PhoenixWeb\\Laptops.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-07T04:14:43.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

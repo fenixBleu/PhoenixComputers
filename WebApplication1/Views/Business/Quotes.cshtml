@@ -1,0 +1,38 @@
+﻿
+@model List<FileModel>
+
+@{
+    ViewData["Title"] = "Quotes";
+    Layout = "_Layout";
+    
+}
+
+<center>
+
+    <h1>@ViewData["Title"]</h1>
+
+    <h3>These quotes have been generated and may be downloaded.</h3>
+
+    <br />
+
+    
+        <table  border="1" class="table table-bordered center">
+            <tr class="btn-primary">
+                <th>File Name</th>
+                <th>Action</th>
+            </tr>
+            @foreach (FileModel file in Model)
+            {
+                <tr>
+                    <td>@file.FileName</td>
+                    <td>@Html.ActionLink("Download", "DownloadFile", new { fileName = file.FileName })</td>
+                </tr>
+            }
+        </table>
+    <br />
+    <br />
+
+    <p>Found the example for this at https://www.aspsnippets.com/Articles/ASPNet-Core-MVC-Download-Files-from-Folder-Directory.aspx</p>
+
+        </center>
+    

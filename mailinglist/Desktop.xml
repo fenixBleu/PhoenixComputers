@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <Name>Peter Parker</Name>
+    <Address>55 Science Ave
+Arachnid, New Jersey 04005</Address>
+    <E-mail>parkerp@newweb.com</E-mail>
+    <Phone>(712)444-1212</Phone>
+    <Category>Desktop</Category>
+  </Customer>
+</Customers>

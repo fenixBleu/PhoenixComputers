@@ -1,0 +1,114 @@
+﻿
+@model PhoenixWebCore.Models.ProductModel
+@{
+    ViewData["Title"] = "Products";
+}
+<center>
+
+    <h1>@ViewData["Title"]</h1>
+    <br />
+    <h2>Laptops</h2>
+
+    <table border="1" class="table table-bordered center">
+        <thead>
+            <tr class="btn-primary">
+                <th width="225px" text-align="center">Name</th>
+                <th width="225px" text-align="center">Description</th>
+                <th width="225px" text-align="center">Brand</th>
+                <th width="225px" text-align="center">Price</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model.laptop)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Brand)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Price)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br /><br />
+    <h2>Tablets</h2>
+
+    <table border="1" class="table table-bordered center">
+        <thead>
+            <tr class="btn-primary">
+                <th width="225px" text-align="center">Name</th>
+                <th width="225px" text-align="center">Description</th>
+                <th width="225px" text-align="center">Brand</th>
+                <th width="225px" text-align="center">Price</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model.tablet)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Brand)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Price)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br /><br />
+    <h2>Accessories</h2>
+
+    <table border="1" class="table table-bordered center">
+        <thead>
+            <tr class="btn-primary">
+                <th width="225px" text-align="center">Name</th>
+                <th width="225px" text-align="center">Description</th>
+                <th width="225px" text-align="center">Brand</th>
+                <th width="225px" text-align="center">Price</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model.accessory)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Brand)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => b.Price)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</center>

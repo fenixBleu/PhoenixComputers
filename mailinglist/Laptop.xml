@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <Name>Reed Richards</Name>
+    <Address>75 Fantastic Ave
+New York, New York 05005</Address>
+    <E-mail>rrichards@science.com</E-mail>
+    <Phone>(512)454-1212</Phone>
+    <Category>Laptop</Category>
+  </Customer>
+</Customers>

@@ -1,0 +1,50 @@
+﻿
+@model IEnumerable<PhoenixWebCore.Models.LocationsModel>
+
+@{
+    ViewData["Title"] = "Locations";
+    Layout = "_Layout";
+}
+<center>
+    <h1>@ViewData["Title"]</h1>
+
+    
+    <table border="1" class="table table-bordered center">
+        <thead>
+            <tr class="btn-primary">
+                <th width="125px" text-align="center">Store ID</th>
+                <th width="225px" text-align="center">Location</th>
+                <th width="225px" text-align="center">Address</th>
+                <th width="225px" text-align="center">Latitude</th>
+                <th width="225px" text-align="center">Longitude</th>
+
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var b in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => b.id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => b.location)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => b.address) <br />
+                    @Html.DisplayFor(modelItem => b.city) @Html.DisplayFor(modelItem => b.state)
+                             @Html.DisplayFor(modelItem => b.zip)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => b.latitude)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => b.longitude)
+                </td>
+            </tr>
+            }
+            @ViewData["Rows"]
+        </tbody>
+    </table>
+</center>

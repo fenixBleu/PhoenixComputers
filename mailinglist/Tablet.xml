@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <Name>Fred Flintstone</Name>
+    <Address>1 Pebble Way
+Bedrock, New Rockshire 00135</Address>
+    <E-mail>fflintstone@stonetablet.org</E-mail>
+    <Phone>(822)555-1212</Phone>
+    <Category>Tablet</Category>
+  </Customer>
+  <Customer>
+    <Name>Stan Lee</Name>
+    <Address>4 Spider Street
+Metropolis, New York 02356</Address>
+    <E-mail>slee@marvel.com</E-mail>
+    <Phone>(801)666-1313</Phone>
+    <Category>Tablet</Category>
+  </Customer>
+</Customers>
